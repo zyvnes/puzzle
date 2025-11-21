@@ -1,7 +1,7 @@
 const puzzles = [
-  { img: "images/puzzle1.jpg", size: 4 },
-  { img: "images/puzzle2.jpg", size: 5 },
-  { img: "images/puzzle3.jpg", size: 6 }
+  { img: "images/image1.png", size: 4 },
+  { img: "images/image2.png", size: 5 },
+  { img: "images/image3.png", size: 6 }
 ];
 
 let currentPuzzle = 0;
